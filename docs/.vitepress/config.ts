@@ -52,3 +52,4 @@ export default defineConfig({
     ],
   },
 });
+import * as sidebars from "./sidebars";
